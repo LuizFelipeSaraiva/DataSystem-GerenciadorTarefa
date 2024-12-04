@@ -18,7 +18,7 @@ diretório da solução.
 
 - Execute o comando "dotnet run" para iniciar a API
 
-- Acesse o diretório raiz do projeto frontend "/src"
+- Acesse o diretório de código do projeto frontend "/src"
 
 - Baixe as dependências executando o comando "npm install"
 
