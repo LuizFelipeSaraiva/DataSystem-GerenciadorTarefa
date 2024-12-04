@@ -7,6 +7,10 @@ Para executar este projeto localmente siga os passos a seguir:
 - Baixe e instale o SQL Server Express 2022
 (https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
+- Baixe e instale o Node.js 22.12.0
+
+- Se necessário reinicie o computador!
+
 - Utilizando o Prompt:
 
 - Acesse o diretório do projeto "DataSystem.GerenciadorTarefas.Presentation" (camada de API) que esta dentro do
