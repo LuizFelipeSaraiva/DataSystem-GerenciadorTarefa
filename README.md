@@ -1,7 +1,7 @@
 # DataSystem-GerenciadorTarefa
 Para executar este projeto localmente siga os passos a seguir:
 
-- Baixe e instale o .NET Core 3.1
+- Baixe e instale o .NET Core 3.1 SDK
 (https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
 
 - Baixe e instale o SQL Server Express 2022
