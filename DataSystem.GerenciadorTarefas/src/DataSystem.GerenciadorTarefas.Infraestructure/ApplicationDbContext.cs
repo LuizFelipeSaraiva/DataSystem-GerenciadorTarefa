@@ -59,7 +59,7 @@ namespace DataSystem.GerenciadorTarefas.Infraestructure
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=GerenciadorTarefas;Integrated Security=True;");
+            optionsBuilder.UseSqlServer("Server=.\\SQLEXPRESS;Database=GerenciadorTarefas;Integrated Security=True;");
         }
     }
 }
